@@ -1,4 +1,4 @@
-# 1.0 Sets y Diccionarios
+# 10 Sets y Diccionarios
 
 En esta carpeta se estudian los **sets** y **diccionarios** en Python, sus características principales y operaciones básicas.
 
