@@ -23,6 +23,9 @@ Este repositorio contiene un curso práctico de Python, organizado por carpetas 
 | [13-paquetes](13-paquetes/) | Organización de módulos en paquetes y técnicas de importación. |
 | [14-sistema-archivos](14-sistema-archivos/) | Manejo de archivos y directorios con `os` y `shutil`. |
 | [15-manejo-errores](15-manejo-errores/) | Captura y manejo de excepciones con `try-except-finally`. |
+| [16-POO-clases](16-POO-clases/) | Introducción a POO: creación de clases, objetos, métodos y atributos. |
+| [17-POO-constructor](17-POO-constructor/) | Constructores, visibilidad de atributos y métodos de acceso. |
+| [18-POO-herencia](18-POO-herencia/) | Herencia entre clases, super() y especialización de funcionalidades. |
 
 ## 🎯 Objetivo del curso
 
@@ -64,6 +67,11 @@ Este curso está diseñado para aprender Python de manera **práctica y progresi
 - Manejo del sistema de archivos
 - Control de errores y excepciones
 
+### **Nivel POO (16-18)**
+- Programación Orientada a Objetos
+- Clases, objetos y constructores
+- Herencia y polimorfismo
+
 ## 🤝 Contribuciones
 
 Si encuentras errores o quieres mejorar algún contenido, las contribuciones son bienvenidas. Puedes:
@@ -78,3 +86,7 @@ Si encuentras errores o quieres mejorar algún contenido, las contribuciones son
 - [Ejercicios de práctica](https://www.hackerrank.com/domains/python)
 
 ---
+
+**¡Empieza tu viaje en Python hoy mismo!** 🐍✨
+
+*Recuerda: La práctica constante es la clave para dominar cualquier lenguaje de programación.*
