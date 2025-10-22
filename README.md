@@ -26,6 +26,8 @@ Este repositorio contiene un curso práctico de Python, organizado por carpetas 
 | [16-POO-clases](16-POO-clases/) | Introducción a POO: creación de clases, objetos, métodos y atributos. |
 | [17-POO-constructor](17-POO-constructor/) | Constructores, visibilidad de atributos y métodos de acceso. |
 | [18-POO-herencia](18-POO-herencia/) | Herencia entre clases, super() y especialización de funcionalidades. |
+| [19-bases-datos](19-bases-datos/) | Conexión a SQLite y MySQL, CRUD, consultas parametrizadas. MySQL probado con XAMPP. |
+| [20-proyecto-python](20-proyecto-python/) | Mini app de notas con usuarios: registro/login y CRUD de notas en MySQL. |
 
 ## 🎯 Objetivo del curso
 
@@ -71,6 +73,16 @@ Este curso está diseñado para aprender Python de manera **práctica y progresi
 - Programación Orientada a Objetos
 - Clases, objetos y constructores
 - Herencia y polimorfismo
+
+### **Bases de Datos (19)**
+- Introducción a la conexión con bases de datos
+- SQLite (archivo local) y MySQL (servidor, probado con XAMPP)
+- Operaciones CRUD con consultas parametrizadas
+
+### **Proyecto con BD (20)**
+- Mini app de notas con usuarios
+- Registro y login contra MySQL
+- Crear, mostrar y eliminar notas del usuario
 
 ## 🤝 Contribuciones
 
