@@ -28,7 +28,7 @@ Este repositorio contiene un curso práctico de Python, organizado por carpetas 
 | [18-POO-herencia](18-POO-herencia/) | Herencia entre clases, super() y especialización de funcionalidades. |
 | [19-bases-datos](19-bases-datos/) | Conexión a SQLite y MySQL, CRUD, consultas parametrizadas. MySQL probado con XAMPP. |
 | [20-proyecto-python](20-proyecto-python/) | Mini app de notas con usuarios: registro/login y CRUD de notas en MySQL. |
-| [21-tkinter](21-tkinter/) | Introducción a GUIs con Tkinter: ventanas, widgets, formularios, alertas y menús. |
+| [21-tkinter](21-tkinter/) | Introducción a GUIs con Tkinter: ventanas, widgets, formularios, alertas y menús. Incluye un mini proyecto integral (13-proyecto.py). |
 
 ## 🎯 Objetivo del curso
 
@@ -89,6 +89,7 @@ Este curso está diseñado para aprender Python de manera **práctica y progresi
 - Fundamentos de Tkinter: ventana principal y gestión de layout
 - Widgets básicos: etiquetas, entradas, botones e imágenes
 - Interacción: formularios, diálogos y menús de aplicación
+- Proyecto integral: navegación con menús, formulario y listado con `ttk.Treeview`
 
 ## 🤝 Contribuciones
 

@@ -67,6 +67,15 @@ En esta carpeta se trabaja la creación de interfaces gráficas con **Tkinter**,
 * Creación de menús de aplicación con `Menu` y submenús.
 * Asociación de comandos a opciones de menú y atajos si aplica.
 
+### 13. Proyecto (13-proyecto.py) 🧩
+
+* Mini proyecto integral con ventana fija (no redimensionable) y tamaño mínimo.
+* Menú superior con navegación entre pantallas: Inicio, Añadir, Información y Salir.
+* Pantalla Inicio: listado de productos usando `ttk.Treeview` (producto y precio).
+* Pantalla Añadir: formulario con campos de nombre, precio y descripción; guarda datos en memoria.
+* Pantalla Información: datos de autoría y ejemplo de cambio de vista.
+* Gestión básica de estado en memoria y refresco del listado al crear un producto.
+
 ## 💡 Consejos y tips
 
 - **Mantén referencias de imágenes** 🖼️: guarda el objeto `PhotoImage` en una variable de instancia (o global) para evitar que el recolector de basura lo elimine y la imagen desaparezca.
